@@ -1,5 +1,6 @@
 from typing import Optional
 
+# without classes
 # Новый импорт.
 # Из модуля start_game_banner, который расположен в папке graphic_arts,
 # импортируем функцию run_screensaver().
